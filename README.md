@@ -1,9 +1,8 @@
 # cs174hw3
 
+Daniel Saneel
 Sachin Shah
 Shubham Patel
-Daniel Saneel
-
 
 This is a php application that keeps track of movie reviews on the website.
 
